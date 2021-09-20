@@ -2,7 +2,9 @@
 
 This sample demonstrates how to enhance your local development experience with [Azure Cosmos DB Linux Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/linux-emulator?tabs=ssl-netstd21) and [VS Code devcontainers](https://code.visualstudio.com/docs/remote/containers).
 
-**Before you begin**: Make sure to follow the instructions outlined in the [Getting started](https://code.visualstudio.com/docs/remote/containers#_getting-started) section in "Developing inside a Container". This includes setting up Visual Studio Code, OS specific requirements, Docker (and Docker compose), and [VS Code Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+### Before you begin
+
+Make sure to follow the instructions outlined in the [Getting started](https://code.visualstudio.com/docs/remote/containers#_getting-started) section in "Developing inside a Container". This includes setting up Visual Studio Code, OS specific requirements, Docker (and Docker compose), and [VS Code Remote Development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
 ### To run the example:
 
